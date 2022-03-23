@@ -12,7 +12,7 @@
   <url>http://www.example.com</url>
          
   <properties>
-    <sonar.organization>ekwe</sonar.organization>
+    <sonar.organization>cmoundu</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
